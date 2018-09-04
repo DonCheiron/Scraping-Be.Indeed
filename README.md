@@ -1,4 +1,4 @@
-# Scraping-Be.Indeed
+# Scraping be.Indeed.com
 This project is to scrape Belgian Indeed for Business Analyst positions
 
 The process has been split in three:
