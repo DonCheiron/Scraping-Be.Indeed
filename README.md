@@ -1,7 +1,7 @@
 # Scraping-Be.Indeed
 This project is to scrape Belgian Indeed for Business Analyst positions
 
-The program has been split in two:
+The process has been split in three:
  - Since the job text is not available when directly searching for a job, first I have created a program to scrape the URL of each job position: "Finished URL Parser indeed.ipynb".
  Then I stored them using Excel, removed the duplicates and saved as CSV
   - Next, I created a parser to extract the text from each URL in the csv and save each job position separately.
