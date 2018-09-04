@@ -1,5 +1,6 @@
 # Scraping be.Indeed.com
-This project is to scrape Belgian Indeed for Business Analyst positions
+This project aims to scrape Belgian Indeed for Business Analyst positions.
+All feedback is welcomed.
 
 The process has been split in three:
  - Since the job text is not available when directly searching for a job, first I have created a program to scrape the URL of each job position: "Finished URL Parser indeed.ipynb".
